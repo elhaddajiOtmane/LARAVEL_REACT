@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LARACT</title>
+</head>
+<body>
 	<h1>LARACT</h1>
 	<p>LARACT is a web application built with Laravel and React.js that provides a CRUD API for managing data. This application can be used as a starting point for building web applications that require a backend API and a frontend UI.</p>
 
@@ -43,3 +48,5 @@
 
 	<h2>Credits</h2>
 	<p>This project was created by elhaddaji otmane. Special thanks to the Laravel and React.js communities for their contributions and support.</p>
+</body>
+</html>
